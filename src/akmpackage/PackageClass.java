@@ -13,7 +13,7 @@ import akm.rlmca132.oop.java.*;
 public class PackageClass {
     public static void main(String[] args) {
        Welcome nwWel=new Welcome(); 
-       System.out.println(+nwWel.getClass());.
+       System.out.println(""+nwWel.getClass());
     }
     
 }
